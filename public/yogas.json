@@ -1,0 +1,45 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Padmasana",
+    "time": 40,
+    "age": "20-40",
+    "img": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Padmasana-Yoga-Pose-61227-pixahive-1024x683-1.jpg"
+    
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Utthita Parsvakonasana",
+    "time": 320,
+    "age": "20-45",
+    "img": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Utthita-Parsvakonasana-Extended-Side-Angle-yoga-pose-61188-pixahive-1024x683-1.jpg"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Vajrasana",
+    "time": 320,
+    "age": "20-45",
+    "img": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/A-Yoga-girl-in-park-63630-pixahive-1024x683-1.jpg"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Virabhadrasana",
+    "time": 320,
+    "age": "20-45",
+    "img": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Virabhadrasana-I-Warrior-Yoga-Pose-62519-pixahive-1024x683-1.jpg"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Surya Namaskar",
+    "time": 320,
+    "age": "20-45",
+    "img": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Suryanamaskar-salute-to-the-sun-yoga-pose-61376-pixahive-1024x683-1.jpg"
+  },
+  {
+    "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+    "name": "Ustrasana",
+    "time": 320,
+    "age": "20-45",
+    "img": "https://ecdn.thelistacademy.com/wp-content/uploads/2021/02/Camel-Pose-Ustrasana-163101-pixahive-1024x683-1.jpg"
+  }
+]

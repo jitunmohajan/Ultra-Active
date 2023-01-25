@@ -1,0 +1,18 @@
+.yoga-exercise-container{
+    width: 100%;
+}
+.profile-container{
+    width: 100%;
+}
+.img-width{
+    width: 8%;
+}
+
+@media (min-width: 768px) and (max-width: 2000px) {
+    .yoga-exercise-container{
+        width: 75%;
+    }
+    .profile-container{
+        width: 25%;
+    }
+}
